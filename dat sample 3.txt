@@ -37,14 +37,20 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"tips mod 1","desc":"Hint Standoff 2 also has a ranking system that rewards players for their performance. Players earn XP and climb the ranks by winning matches and performing well. The higher the rank,","photo":"https://iili.io/HSuxS9V.jpg"},
+  {"title":"advice pack 2","desc":"If you are new to Hint Standoff 2, here are some tips and tricks to help you improve your gameplay.","photo":"https://iili.io/HSuxgwP.jpg"},
+  {"title":"helper mod 3","desc":"Choose the right weapon:
+Each weapon in Hint Standoff 2 has its own unique stats and is suited for different playstyles. For example, if you prefer long-range combat, choose a sniper rifle. If you prefer close-quarters combat, choose a shotgun or an SMG. Experiment with different weapons to find the one that suits your playstyle.","photo":"https://iili.io/HSnClhQ.png"},
+  {"title":"how to use this app 4","desc":"Aim for the head:
+Headshots deal more damage than body shots and can take down enemies faster. Try to aim for the head when engaging enemies to get quick kills.","photo":"https://iili.io/HSuxUAB.jpg"},
+  {"title":"advance pack 5","desc":"Use cover:
+Hint Standoff 2 maps have plenty of cover in the form of walls, boxes, and other objects. Use these to your advantage to avoid enemy fire and surprise your opponents.
+","photo":"https://iili.io/HSnCYpj.jpg"},
+  {"title":"tips mod 6","desc":"Use grenades:
+Grenades are an effective way to flush out enemies or deal damage to groups of enemies. Use them wisely and throw them at the right time to catch your opponents off guard.","photo":"https://iili.io/HSuxS9V.jpg"},
+  {"title":"helper pack 7","desc":"Communicate with your team:
+Hint Standoff 2 is a team-based game, and communication is key to success. Use the in-game chat to communicate with your team and coordinate your actions. Call out enemy ","photo":"https://iili.io/HSnCGEP.jpg"},
+  {"title":"advance mod 8","desc":"The game features various maps, each with its own unique design and layout. The maps are designed to cater to different playstyles and provide players with a variety of options to approach their objectives. Some maps are open and encourage long-range combat, while others are more enclosed, requiring players to use close-quarters combat.","photo":"https://iili.io/HSnCR2e.jpg"}
    ]
  
 }
